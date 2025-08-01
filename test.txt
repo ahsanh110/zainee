@@ -1,2 +1,6 @@
 This is test repo
+<<<<<<< HEAD
 Adding new line in local so we can test merge conflict
+=======
+Adding new line in local to create merege conflict
+>>>>>>> 994544f8e3704eb4f682c046599c54e895d7180a
