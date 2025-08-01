@@ -1,2 +1,2 @@
 This is test repo
-Adding new line in local
+Adding new line in local so we can test merge conflict
